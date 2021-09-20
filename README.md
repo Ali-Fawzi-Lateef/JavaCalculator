@@ -1,6 +1,13 @@
-This is a simple Calculator in Java Programing languge.
+# Simple Java Calculator
+Simple **Java** application that does *addition* , *subtraction* , *multiplication* and *division*
 
-if you want to browse the code:
+### To browse the code 
 
-Enter inside the file src/calculator
-and Enter inside JavaCalculator.java
+1. Enter inside "src/calculator"
+2. Enter inside "JavaCalculator.java"
+---
+* and then you can copy the code to run it on your compiler and see the result
+* you can clone the repo and trythings by yourself if you want to
+---
+* [x] there is a while loop used to make the use of this program more professional
+* [ ] the loop won't stop till you exit which is here just input 0 in the **Opretor**
