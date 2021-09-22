@@ -14,7 +14,7 @@ public class JavaCalculator{
 			char OP = input.next().charAt(0); //get input which is an Opreator here for the math calculating.
 			switch(OP) {
 			case'+':
-				System.out.println(N1+N2); //case one if user chossen +
+				System.out.println(N1+N2); //case one if user chossen +.
 				break;
 			case'-':
 				System.out.println(N1-N2); //case one if user chossen -
