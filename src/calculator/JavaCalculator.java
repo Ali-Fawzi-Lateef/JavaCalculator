@@ -26,7 +26,7 @@ public class JavaCalculator{
 				System.out.println(N1*N2); //case one if user chossen *
 				break;
 			case'0':
-				System.out.println("Bye, Take care :D"); //print this when the user want to Quit
+				System.out.println("Bye, Take care :D"); //print this when the user want to Quit.
 				break;
 				default:
 					System.out.println("Invalid input, Try agin please ");
