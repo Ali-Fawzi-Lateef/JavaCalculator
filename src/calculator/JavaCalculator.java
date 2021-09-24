@@ -1,6 +1,6 @@
 package calculator;
 
-import java.util.Scanner; //For the Scanner to take input from user
+import java.util.Scanner; //For the Scanner to take input from user.
 
 public class JavaCalculator{
 	public static void main(String[] args) { //the main function
