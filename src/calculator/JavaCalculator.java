@@ -11,7 +11,7 @@ public class JavaCalculator{
 			System.out.println("Enter Num2: "); //display this to ask the user for input.
 			int N2= input.nextInt(); // get input.
 			System.out.println("Enter Opretor(0 To Quit): "); //display this to ask the user for input.
-			char OP = input.next().charAt(0); //get input which is an Opreator here for the math calculating
+			char OP = input.next().charAt(0); //get input which is an Opreator here for the math calculating.
 			switch(OP) {
 			case'+':
 				System.out.println(N1+N2); //case one if user chossen +
