@@ -3,7 +3,7 @@ package calculator;
 import java.util.Scanner; //For the Scanner to take input from user.
 
 public class JavaCalculator{
-	public static void main(String[] args) { //the main function
+	public static void main(String[] args) { //the main function.
 		Scanner input = new Scanner(System.in);
 		do {
 			System.out.println("Enter Num1: "); //display this to ask the user for input
