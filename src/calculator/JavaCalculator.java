@@ -6,7 +6,7 @@ public class JavaCalculator{
 	public static void main(String[] args) { //the main function.
 		Scanner input = new Scanner(System.in);
 		do {
-			System.out.println("Enter Num1: "); //display this to ask the user for input
+			System.out.println("Enter Num1: "); //display this to ask the user for input.
 			int N1= input.nextInt(); //get input.
 			System.out.println("Enter Num2: "); //display this to ask the user for input.
 			int N2= input.nextInt(); // get input.
